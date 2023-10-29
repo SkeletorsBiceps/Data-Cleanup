@@ -5,4 +5,4 @@ This is a repository of code I utilized for personal projects using Overwatch Le
 
 **Liquipedia API Web Scrap** is Python code used to scrape data on Overwatch League players from Liquipedia.net and upload the data to my Overwatch League SQL database.
 
-You can see all of the personal projects I've worked on at my website [mtollefsen.gtihub.io](https://mtollefsen.github.io/)
+You can see all of the personal projects I've worked on at my website [mtollefsen.gtihub.io](https://mtollefsen.github.io/).
