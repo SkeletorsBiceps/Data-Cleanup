@@ -4,7 +4,6 @@ This is the SQL code I used to clean data from the Overwatch League and turn it 
 ## Before
 
 #### 4,958,301 rows of data from 14 flat CSV files
-#### Problems included
 - Spelling errors
 - Inconsistent formatting
 - Incorrect values
@@ -19,13 +18,13 @@ This is the SQL code I used to clean data from the Overwatch League and turn it 
 - 5 tables in a hierarchy `season` > `stage` > `match` > `game` > `round`<br>
 - 2 reference tables `player_stat` and `hero`
   
-#### Changes include
-- Fixing all of the aforementioned problems
-- Adding **primary keys**
-- Adding *foreign keys*
-- Adding constraints
-- Adding new data via the `hero` table
-- Bringing database to first normal form
+
+- Fixed all of the aforementioned problems
+- Added **primary keys**
+- Added *foreign keys*
+- Added constraints
+- Added new data via the `hero` table
+- Brought database to first normal form
 
 ## Database Schema
 ![Overwatch League Database organized v4](https://user-images.githubusercontent.com/97869630/154815413-24f2b310-a25f-4fd7-beed-77aee0237a48.PNG)
