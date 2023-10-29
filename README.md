@@ -1,15 +1,8 @@
 # Overwatch League Data Projects
-This is a repository of personal projects that utilize data from the Overwatch League. The purpose of these projects was to give me more experience in useful skills and technologies including:
-- Data engineering
-- Data visualization
-- Web scraping
-- Communicating results from data analysis
-- SQL
-- Python
-- Tableau
+This is a repository of code I utilized for personal projects using Overwatch League data.
 
-### Projects
-- [Overwatch League Data Cleanup](https://github.com/maxtoll/Overwatch-League-Data/tree/main/Data%20Cleanup) (using SQL)
-- [Liquipedia API Web Scraping](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Liquipedia%20API%20Web%20Scrape) (using Python)
-- [The Assault on Assault - An Analysis of Overwatch's Most Despised Game Mode](https://nbviewer.org/github/mtollefsen/overwatch-league-data-projects/blob/main/Notebooks/The%20Assault%20on%20Assault.ipynb) (this is a Jupyter Notebook, if you click the link please give it a minute to load)
+**Data Cleanup is SQL** code used to clean and organize nearly 5 million rows of Overwatch League data from 14 flat CSV files into a database of 7 connected tables.
 
+**Liquipedia API Web Scrap** is Python code used to scrape data on Overwatch League players from Liquipedia.net and upload the data to my Overwatch League SQL database.
+
+You can see all of the personal projects I've worked on at my website [mtollefsen.gtihub.io](https://mtollefsen.github.io/)
